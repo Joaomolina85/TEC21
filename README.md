@@ -5,3 +5,4 @@
 
 - Em seguida ao clicar em visualizar cadastro, você pode ver todos os cadastro ja registrados no sistema, ao clicar, novamente aparece uma DataGridView,
 - ao dar dois cliques abre uma tela nova com toda a informação fornecida pelo arquivo xml, com isso, você pode editar as informações ou excluir a informação.
+- o arquivo do banco de dados esta dentro da pasta do projeto.
