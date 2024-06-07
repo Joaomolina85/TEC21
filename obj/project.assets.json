@@ -3183,11 +3183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\SistemaCartorio\\SistemaCartorio.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\TEC21\\SistemaCartorio.csproj",
       "projectName": "SistemaCartorio",
-      "projectPath": "C:\\xampp\\htdocs\\SistemaCartorio\\SistemaCartorio.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\TEC21\\SistemaCartorio.csproj",
       "packagesPath": "C:\\Users\\joaom\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\SistemaCartorio\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\TEC21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

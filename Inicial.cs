@@ -30,6 +30,8 @@ namespace SistemaCartorio
             button2.Enabled = false;
         }
 
+
+
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
@@ -85,6 +87,7 @@ namespace SistemaCartorio
 
         }
 
+        //função para salvar todas informações, data da geração, protocolo gerado.
         private async void button2_Click(object sender, EventArgs e)
         {
             DialogResult resposta = MessageBox.Show("Deseja salvar os dados?", "Sistema", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
@@ -133,7 +136,6 @@ namespace SistemaCartorio
                 MessageBox.Show("Operação Cancelada");
                 dataGridView1.DataSource = "";
             }
-
         }
 
         private void button3_Click(object sender, EventArgs e)

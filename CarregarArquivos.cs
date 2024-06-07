@@ -32,6 +32,7 @@ namespace SistemaCartorio
             dataGridView1.ReadOnly = true;
         }
 
+        // TRAZER OS DADOS DE CADA CLIENTE AO CLICAR NO DATA GRID VIEW E PASSAR PARA A PROXIMA FORMS
         private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             string Id = this.dataGridView1.CurrentRow.Cells["Id"].Value.ToString();

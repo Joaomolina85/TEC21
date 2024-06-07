@@ -22,7 +22,7 @@ namespace SistemaCartorio
             _passarUsuario = passarUsuario;
             InitializeComponent();
         }
-
+        // PEGAR OS DADOS ATRAVEZ DOS VALORES RECEBIDOS NO FORMS CARREGAR ARQUIVOS
         private void UsuarioForms_Load(object sender, EventArgs e)
         {
             textBox1.Text = _passarUsuario.NomeDevedor;

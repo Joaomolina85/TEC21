@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2LsNLfdbabAIJIlK/FJnL40rwOv50y08KZg6IdROKVZMh+6cYU3VpGkJr8XA1bnU79JyKfrhmEFVV8I57StqTw==",
+  "dgSpecHash": "VOmniACA5Jly6QwSYUOCY/WHw0JBBOCXyNLx9X6XsPKkJOtHBkJEpQZTIYN0oCIsU2GYicWwjfzL40jH0++gzg==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\SistemaCartorio\\SistemaCartorio.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\TEC21\\SistemaCartorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaom\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\joaom\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
